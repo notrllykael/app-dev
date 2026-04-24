@@ -20,7 +20,7 @@ The following elements represent the core of the Jura Tempest Federation:
 ### 📋 Project Status (Task List)
 - [x] Reincarnate as a Slime
 - [x] Befriend Veldora the Storm Dragon
-- [j] Establish the Jura Tempest Federation
+- [x] Establish the Jura Tempest Federation
 - [ ] Achieve World Peace
 
 ### 💻 Unique Skill Syntax
