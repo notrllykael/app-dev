@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# Anime Spotlight: That Time I Got Reincarnated as a Slime
+# That Time I Got Reincarnated as a Slime
 
 ---
 
@@ -27,7 +27,7 @@ The following elements represent the core of the Jura Tempest Federation:
 To activate an analysis, the Great Sage uses the following logic:
 `Notice: Individual "Rimuru Tempest" has successfully acquired the skill [Predator].`
 
-### 🎭 Character Tier List
+### Character Tier List
 | Name | Race | Role |
 | :--- | :--- | :--- |
 | **Rimuru** | Slime / Demon Lord | Leader |
